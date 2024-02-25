@@ -1,4 +1,4 @@
-This is a simple Restaurant Template is built using HTML, CSS, and JavaScript. It's designed to provide a seamless user experience for restaurant owners looking to showcase their menu and services. The project consists of three main files: index.html, styles.css, and script.js.
+This is a simple Restaurant Template built using HTML, CSS, and JavaScript. It's designed to provide a seamless user experience for restaurant owners looking to showcase their menu and services. The project consists of three main files: index.html, styles.css, and script.js.
 
 index.html: This is the backbone of the website, containing the structure and content. It features a fixed-top navigation bar, a captivating header with a call-to-action button, and a menu section with various food items.
 
