@@ -7,3 +7,4 @@ styles.css: This file holds all the custom styles. It uses the " Amatic+SC" Goog
 script.js: This JavaScript file adds interactivity to the menu section. It employs a tabbed interface allowing users to switch between different categories like Fish , Accompaniments, and Drinks. The script ensures that the first tab is auto-selected upon page load.
 
 Restaurant_Template/README.md
+The image of the
